@@ -61,13 +61,6 @@
     <summary><b>🍭 Games I play</b></summary>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
 
-### Games:
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=flat&logo=Windows&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-### Others:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=html5&labelColor=0D1117)&nbsp;
-
-
 </div>
 
 </details>
