@@ -45,6 +45,7 @@
 ![Discord](https://img.shields.io/badge/-Discord-0D1117?style=flat&logo=discord&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TeamSpeak](https://img.shields.io/badge/-TeamSpeak-0D1117?style=flat&logo=teamspeak&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+###### NOTE: MOST OF MY PROJECTS ARE PRIVATE!
 </div>
 
 </details>
