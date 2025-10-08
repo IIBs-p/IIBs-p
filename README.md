@@ -28,6 +28,9 @@
 ![Bukkit](https://custom-icon-badges.demolab.com/badge/-Bukkit-0D1117?style=flat&logo=bukkit&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Fabric](https://custom-icon-badges.demolab.com/badge/-Fabric-0D1117?style=flat&logo=fabric&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Velocity](https://img.shields.io/badge/-Velocity-0D1117?style=flat&logo=velocity&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Electron](https://custom-icon-badges.demolab.com/badge/-Electron-0D1117?style=flat&logo=electron&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Tauri](https://custom-icon-badges.demolab.com/badge/-Tauri-0D1117?style=flat&logo=tauri&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![ReactJs](https://custom-icon-badges.demolab.com/badge/-React-0D1117?style=flat&logo=reactjs&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### OS:
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=flat&logo=Windows&labelColor=0D1117&textColor=0D1117)&nbsp;
