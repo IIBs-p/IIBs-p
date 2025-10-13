@@ -18,6 +18,9 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
 
 
 ### Tools / APIs / Libraries:
