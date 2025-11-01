@@ -99,14 +99,5 @@
 
 ###
 
-<details>
-  <summary><b>🐍 Snake</b></summary>
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-</details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=009ADF&section=footer"/>
